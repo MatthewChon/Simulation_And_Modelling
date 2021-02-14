@@ -1,0 +1,8 @@
+write a java program that uses a linked list ordered by time using your own insert code to move values onto the list.
+
+First insert 50,000 (time) values from the distribution below
+30% of them are from a uniform double precision value from 0-10
+60% of the time from  a uniform double precision value from 0-100
+10% of the time from  a uniform double precision value from 0-1000
+
+then print the frequency of values between 0 <= x <= 10, 10 < x <= 100,100 < x <= 1000
