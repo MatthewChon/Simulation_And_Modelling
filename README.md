@@ -8,3 +8,9 @@ Queens College CSCI381 - Simulation and Modelling Project
 > ### Assignments
 >> [Assignment 1 - distribution linked list](https://github.com/StrictlyLinear/381SimulationAndModelling/blob/main/Assignment1/AssignmentSpecs.txt)
 >> [[code](https://github.com/StrictlyLinear/381SimulationAndModelling/blob/main/Assignment1/MatthewChonA1.java)]
+>> 
+>> [Assignment 2 - MM1 Queue]()
+>> [[code](https://github.com/MatthewHChon/381SimulationAndModelling/tree/main/Assignment2)]
+>> 
+>> [Assignment 3 - Monte Carlo]()
+>> [[code](https://github.com/MatthewHChon/381SimulationAndModelling/blob/main/Assignment3/montecarlo/MonteCarlo.java)]
