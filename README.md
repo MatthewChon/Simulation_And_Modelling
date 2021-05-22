@@ -1,4 +1,4 @@
-# 381SimulationAndModelling
+# CS381 SimulationAndModelling
 Queens College CSCI381 - Simulation and Modelling Project
 
 >### What does this course entail?
